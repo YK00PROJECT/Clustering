@@ -53,6 +53,3 @@ Contributions to this project are welcome! If you have suggestions for improving
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This README provides a comprehensive guide for users to execute and understand the marketing campaign analysis. It includes setup instructions, a detailed usage guide, and an explanation of the project's purpose and functionality.
